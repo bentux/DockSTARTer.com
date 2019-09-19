@@ -1,3 +1,5 @@
+**Free and open source password management solution**
+
 Bitwarden Install
 
 When installing the Bitwarden container, the installer will install under Appdata directory as the root user, however once it is installed you can change the owner/group of it to whatever is required
