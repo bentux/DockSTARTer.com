@@ -1,1 +1,1 @@
-Placeholder page
+**Web app for browsing, reading and downloading eBooks**
