@@ -1,1 +1,1 @@
-Placeholder page
+- Companion to Sonarr to manage and download subtitles
